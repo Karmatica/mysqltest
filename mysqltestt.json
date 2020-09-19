@@ -1,11 +1,34 @@
-{
-  "posts": [
+[
+    
     {
-      "id": 1,
-      "title": "hello"
+    	"id": 1,
+    	"title": "name1",
+    	"location": "place1",
+    	"complete": "yes"
+    },
+    {
+    	"id": 2,
+    	"title": "name2",
+    	"location": "place2",
+    	"complete": "no"
+    },
+    {
+    	"id": 3,
+    	"title": "name3",
+    	"location": "place3",
+    	"complete": "yes"
+    },
+    {
+    	"id": 4,
+    	"title": "name4",
+    	"location": "place4",
+    	"complete": "no"
+    },
+    {
+    	"id": 5,
+    	"title": "name5",
+    	"location": "place5",
+    	"complete": "yes"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+]
