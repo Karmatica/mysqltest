@@ -30,11 +30,17 @@
     	"location": "place5",
     	"complete": "yes"
     },
-        {
+    {
     	"id": 6,
     	"title": "name6",
     	"location": "place6",
     	"complete": "maybe"
+    },
+     {
+    	"id": 7,
+    	"title": "Human",
+    	"location": "Moon",
+    	"complete": "hopefully"
     }
 
 ]
