@@ -2,9 +2,9 @@
     
     {
     	"id": 1,
-    	"title": "name1",
-    	"location": "place1",
-    	"complete": "yes"
+    	"title": "Yourname1",
+    	"location": "Yourplace1",2
+    	"complete": "Maybe"
     },
     {
     	"id": 2,
@@ -29,6 +29,14 @@
     	"title": "name5",
     	"location": "place5",
     	"complete": "yes"
+    },
+        {
+    	"id": 6,
+    	"title": "name6",
+    	"location": "place6",
+    	"complete": "maybe"
     }
+
+]
 
 ]
